@@ -1,0 +1,5 @@
+[Configuration]
+FontName=Perfect DOS VGA 437 12
+FontUseSystem=FALSE
+RunCustomCommand=TRUE
+CustomCommand=fish
